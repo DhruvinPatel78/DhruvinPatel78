@@ -1,5 +1,19 @@
 <!-- Dhruvin Patel's GitHub Profile README -->
 
+<!-- Animated SVG Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=Hi+%F0%9F%91%8B%2C+I'm+Dhruvin+Patel;Full-stack+Developer+%7C+React+%2B+Tailwind+Lover;UI%2FUX+Enthusiast+%7C+Open+Source+Builder" alt="Typing SVG" />
+</p>
+
+<h1 align="center">🚀 Welcome to My GitHub!</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dhruvinpatel&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinpatel" />
+  <a href="https://github.com/dhruvinpatel?tab=followers"><img src="https://img.shields.io/github/followers/dhruvinpatel?label=Followers&style=social" alt="GitHub Followers"></a>
+</p>
+
+---
+
 <h1 align="center">Hi 👋, I'm Dhruvin Patel</h1>
 <h3 align="center">🚀 Full-stack Developer | UI/UX Enthusiast | Tailwind + React Wizard | Capacitor JS</h3>
 
