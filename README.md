@@ -66,7 +66,8 @@ Here are some projects I'm proud of:
 ### 🧑‍🎨 Design + Code = ❤️
 
 > I craft user-friendly interfaces and meaningful digital experiences  
-> ⚙️ One component at a time.
+> Turn ideas into interactive UIs  
+> ⚙️ One pixel-perfect UI
 
 ---
 
