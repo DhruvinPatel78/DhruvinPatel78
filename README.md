@@ -55,7 +55,7 @@
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinpatel&theme=dracula&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DhruvinPatel78&theme=dracula&area=true&hide_border=true" />
 </p>
 
 ---
