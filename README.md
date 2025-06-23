@@ -40,7 +40,7 @@
 ### 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhruvinpatel&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvinPatel78&theme=radical" />
 </p>
 
 ---
