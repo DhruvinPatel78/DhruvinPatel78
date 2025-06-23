@@ -52,6 +52,14 @@
 
 ---
 
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dhruvinpatel&theme=dracula&area=true&hide_border=true" />
+</p>
+
+---
+
 ### 📂 Pinned Projects
 
 Here are some projects I'm proud of:
