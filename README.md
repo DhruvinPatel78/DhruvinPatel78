@@ -23,7 +23,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,ts,js,tailwind,figma,firebase,git,github,nodejs,express,mongodb" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,redux,capacitor,bolt,ts,js,tailwind,figma,firebase,git,github,nodejs,express,mongodb" />
 </p>
 
 ---
@@ -37,22 +37,14 @@
 
 ---
 
-### 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DhruvinPatel78&theme=radical" />
-</p>
-
----
-
 ### 📂 Pinned Projects
 
 Here are some projects I'm proud of:
 
-- 🚀 [Optery](https://github.com/optery/optery-frontend) – Business management suite for modern teams  
-- 🎨 [React Tailwind Components](https://github.com/dhruvinpatel/react-tailwind-ui) – Custom cards, loaders, UI kits  
-- 📱 [My Portfolio](https://github.com/dhruvinpatel/myportfolio) – Personal portfolio site using React + Tailwind  
-- 🧠 [AI Prompt Experiments](https://github.com/dhruvinpatel/ai-prompts-lab) – GPT-4 + automation tools in action
+- 🚀 [Optery](https://github.com/optery/optery-frontend) – SaaS app for removing personal details from web  
+- 🎨 [UI Library](https://github.com/emgage/engage-ui) – Custom UI Component Library, loaders, UI kits  
+- 🍕 [My Portfolio](https://github.com/DhruvinPatel78/FreshAndMe) – Food Ordering App React Native + Google APIs  
+- ♥️♦️♠️♣️ [Card ScoreBoard WebApp](https://github.com/DhruvinPatel78/kachuful) – Card Game Scoreboard + Tailwind
 
 ---
 
