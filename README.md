@@ -64,10 +64,11 @@
 
 Here are some projects I'm proud of:
 
-- 🚀 [Optery](https://github.com/optery/optery-frontend) – SaaS app for removing personal details from web  
+- 🚀 [Optery](https://www.optery.com/) – SaaS app for removing personal details from the web
+- 💵 [Crossfund](https://www.crossfund.com/) – SaaS platform where startups can pitch to investors and get investment in Crypto or Bank  
 - 🎨 [UI Library](https://github.com/emgage/engage-ui) – Custom UI Component Library, loaders, UI kits  
 - 🍕 [My Portfolio](https://github.com/DhruvinPatel78/FreshAndMe) – Food Ordering App React Native + Google APIs  
-- ♥️♦️♠️♣️ [Card ScoreBoard WebApp](https://github.com/DhruvinPatel78/kachuful) – Card Game Scoreboard + Tailwind
+- ♥️♦️♠️♣️ [Card ScoreBoard WebApp](https://kachuful.netlify.app/) – Card Game Scoreboard + Tailwind
 
 ---
 
