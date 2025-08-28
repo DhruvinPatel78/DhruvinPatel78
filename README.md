@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Dhruvin Patel</h1>
 
-<h3 align="center">🚀 Full-stack Developer | UI/UX Enthusiast | Tailwind + React Wizard | Capacitor JS</h3>
+<h3 align="center">🚀 React + Next + React Native | UI/UX Enthusiast | Tailwind + MUI | Capacitor JS</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvinpatel&label=Profile%20views&color=0e75b6&style=flat" alt="dhruvinpatel" />
