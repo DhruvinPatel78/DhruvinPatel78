@@ -2,7 +2,7 @@
 
 <!-- Animated SVG Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=Full-stack+%7C+React+%2B+Tailwind;UI%2FUX+Enthusiast+%7C+Capacitor+JS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=440&lines=React+%7C+Next+%2B+Tailwind;UI%2FUX+Enthusiast+%7C+Capacitor+JS" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Dhruvin Patel</h1>
