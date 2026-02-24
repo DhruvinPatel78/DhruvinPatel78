@@ -46,8 +46,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=DhruvinPatel78&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DhruvinPatel78&layout=compact&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=DhruvinPatel78&show_icons=true" height="160" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=DhruvinPatel78&layout=compact" height="160"/>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 ### 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DhruvinPatel78&theme=tokyonight" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=DhruvinPatel78" />
 </p>
 
 ---
