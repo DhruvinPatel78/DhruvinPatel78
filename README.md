@@ -18,7 +18,7 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Currently working on **Optery** – SaaS app  
+- 🔭 TurboRepo App **Optery** – SaaS app  
 - 🌱 Exploring **AI automation**, **React Native**, and **SaaS tools**  
 - 💡 Love building clean UIs with **React + Tailwind + MUI**  
 - 💬 Ask me about `React`, `Redux`, `Tailwind`, `Firebase`, or design  
